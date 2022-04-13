@@ -4,7 +4,9 @@
 - 📫 How to reach me: andywhm@163.com
 - ⚡ Fun fact: Time wait for no one.
 
+<!--
 [![GitHub 统计卡片](https://github-readme-stats.vercel.app/api?username=Andy0570&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![热门语言卡片](https://github-readme-stats.vercel.app/api/top-langs/?username=Andy0570&theme=blueberry&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
